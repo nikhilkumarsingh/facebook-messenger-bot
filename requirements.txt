@@ -1,0 +1,15 @@
+appdirs==1.4.3
+click==6.7
+Flask==0.12
+gunicorn==19.7.1
+itsdangerous==0.24
+Jinja2==2.9.5
+MarkupSafe==1.0
+packaging==16.8
+pymessenger==0.0.7.0
+pyparsing==2.2.0
+requests==2.13.0
+requests-toolbelt==0.7.1
+six==1.10.0
+Werkzeug==0.12
+wit==4.2.0
