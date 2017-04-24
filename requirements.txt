@@ -1,7 +1,13 @@
 appdirs==1.4.3
+beautifulsoup4==4.5.3
+bs4==0.0.1
 click==6.7
 Flask==0.12
+fuzzywuzzy==0.15.0
+gnewsclient==1.0.2
 gunicorn==19.7.1
+hackerrank-sdk==1.2.2
+html5lib==0.999999999
 itsdangerous==0.24
 Jinja2==2.9.5
 MarkupSafe==1.0
@@ -11,5 +17,6 @@ pyparsing==2.2.0
 requests==2.13.0
 requests-toolbelt==0.7.1
 six==1.10.0
+webencodings==0.5.1
 Werkzeug==0.12
 wit==4.2.0
